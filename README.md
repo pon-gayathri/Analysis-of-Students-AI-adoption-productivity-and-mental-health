@@ -1,7 +1,7 @@
 # Analysis of Students AI-adoption Productivity and Mental Health
 
 ## Project Overview
-Analysis of Students' AI adoption, productivity and mental health using Python, MySQL and PowerBI.
+Analysis of Students' AI adoption, productivity and mental health using Python, MySQL and Power BI.
 
 ## Dataset
 - Source : Kaggle
