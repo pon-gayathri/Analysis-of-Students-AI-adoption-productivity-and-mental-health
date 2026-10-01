@@ -60,7 +60,3 @@ Analysis of Students' AI adoption, productivity and mental health using Python, 
 - Students who were placed have the highest score of mental wellbeing compared to students who were not placed and students who were doing internship.
 -	Only one male student has a very good mental health. Lot of students (202) have moderate mental health and very few students(16) have poor mental health according to this dataset.
 
-## Dashboard Screenshots
-
-### Education Details Page 1
-![Education Details-Dashboard 1](Education%20Details-Dashboard%201.png)
